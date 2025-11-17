@@ -1,0 +1,11 @@
+{
+  "tracking_mode": "sidereal",
+  "target_ra": 136.067,
+  "target_dec": 79.6577,
+  "reference_jd": 0.0,
+  "max_images": 100,
+  "rotation_tolerance": 0.1,
+  "apply_rotation_correction": true,
+  "output_file": "sidereal_stack.fits",
+  "save_diagnostics": true
+}
